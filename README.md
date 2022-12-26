@@ -23,3 +23,9 @@
     <a href="https://www.sosial-medial-ewis-bot-zl-ew-my.site/">
       Klik Link ke halaman web google
 </a>
+
+  <h1>Kunjungi website sosmed kami klik dibwah ini</h1>
+<a href="file.html">Klik HTML</a>
+</br>
+<a href="https://www.sosial-medial-ewis-bot-zl-ew-my.site/">
+  Klik Link ke halaman web google
